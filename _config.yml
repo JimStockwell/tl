@@ -18,8 +18,8 @@ theme: # leave it empty
 # social
 author: JimStockwell
 # image: /thumbnail-jumbo.png
-twitter:
-  username: ArizonaJim4
+#twitter:
+#  username: 
 
 plugins:
   - jekyll-target-blank
@@ -27,4 +27,4 @@ plugins:
 target-blank:
     rel: nofollow
 
-header_page_refs: ['now', 'about']
+header_page_refs: ['now', 'about', 'contact']
