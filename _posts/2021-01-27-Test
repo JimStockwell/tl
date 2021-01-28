@@ -1,7 +1,5 @@
 ---
-layout: default
-title: Test post title
-description: Description of test post
+layout: post
 ---
 
 ## Test Post Header
