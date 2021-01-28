@@ -3,7 +3,7 @@ description: A blog about technical leadership.
 show_downloads: false
 
 baseurl: "" # change this to the subpath of your site, e.g. /blog. Leave it empty if you don't need it.
-url: "http://techleadership.net" # change this to the base hostname & protocol for your site
+url: "https://techleadership.net" # change this to the base hostname & protocol for your site
 
 
 google_analytics:
