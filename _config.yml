@@ -1,5 +1,5 @@
-title: Cayman Blog Theme
-description: Cayman Blog Theme is a clean, responsive blogging theme for Jekyll and Gitlab/GitHub Pages.
+title: Tech Leadership
+description: A blog about technical leadership.
 show_downloads: false
 
 baseurl: "" # change this to the subpath of your site, e.g. /blog. Leave it empty if you don't need it.
@@ -18,8 +18,8 @@ theme: # leave it empty
 # social
 author: JimStockwell
 # image: /thumbnail-jumbo.png
-#twitter:
-#  username: 
+twitter:
+  username: ArizonaJim4
 
 plugins:
   - jekyll-target-blank
@@ -27,4 +27,4 @@ plugins:
 target-blank:
     rel: nofollow
 
-header_page_refs: ['now', 'about', 'contact']
+header_page_refs: ['now', 'about']
